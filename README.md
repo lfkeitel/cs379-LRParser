@@ -15,12 +15,12 @@ java LRParser 'input'
 
 ## Grammar Rules
 
-1. E -> E + T
-2. E -> T
-3. T -> T * F
-4. T -> F
-5. F -> ( E )
-6. F -> id
+1. `E -> E + T`
+2. `E -> T`
+3. `T -> T * F`
+4. `T -> F`
+5. `F -> ( E )`
+6. `F -> id`
 
 ## State Table
 
